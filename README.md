@@ -1,0 +1,1 @@
+# openweathermpap_odoo
